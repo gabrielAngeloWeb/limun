@@ -1,0 +1,23 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<g>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="80.629,96.353 3.161,96.353 3.161,21.426 95.821,21.426
+		95.821,69.564 	"/>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="18.584,3.692 95.821,3.692 95.821,21.426 3.161,21.426
+		3.161,9.926 	"/>
+	<g>
+		<line fill="none" stroke="#FED700" stroke-miterlimit="10" x1="84.975" y1="10.252" x2="90.19" y2="14.866"/>
+		<line fill="none" stroke="#FED700" stroke-miterlimit="10" x1="90.19" y1="10.252" x2="84.975" y2="14.866"/>
+	</g>
+	<rect x="72.472" y="10.611" fill="none" stroke="#FED700" stroke-miterlimit="10" width="6.685" height="4.255"/>
+	<line fill="none" stroke="#FED700" stroke-miterlimit="10" x1="67.658" y1="12.559" x2="61.039" y2="12.559"/>
+	<g>
+		<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="40.35,79.167 37.164,77.338 32.207,74.489 55.122,34.605
+			65.743,40.707 57.628,54.833 		"/>
+		<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="67.571,37.52 66.487,39.409 55.868,33.308 57.868,29.826
+			66.539,34.809 		"/>
+		<polygon fill="none" stroke="#FED700" stroke-miterlimit="10" points="36.646,78.848 41.862,81.842 36.637,84.896 31.412,87.952
+			31.42,81.903 31.427,75.849 		"/>
+		<line fill="none" stroke="#FED700" stroke-miterlimit="10" x1="31.418" y1="84.429" x2="33.277" y2="85.427"/>
+	</g>
+</g>
+</svg>

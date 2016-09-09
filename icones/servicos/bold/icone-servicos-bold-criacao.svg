@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+<g>
+	<g>
+		<path fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" d="M46.771,24.112
+			c-2.181-0.855-4.555-1.324-7.04-1.324c-10.651,0-19.284,8.633-19.284,19.283c0,7.041,3.777,13.198,9.411,16.564v5.13h19.747v-5.13
+			c5.636-3.366,9.411-9.523,9.411-16.564c0-3.809-1.104-7.362-3.011-10.353"/>
+		<polyline fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" points="31.665,66.666 31.665,69.096
+			47.796,69.096 47.796,63.791 		"/>
+		<path fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" d="M46.177,69.096
+			c-0.378,2.246-3.12,3.988-6.446,3.988c-3.325,0-6.065-1.742-6.443-3.984"/>
+		<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="29.857" y1="58.635" x2="45.78" y2="58.635"/>
+		<polyline fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" points="35.004,58.635 35.004,50.495
+			37.993,51.609 39.766,49.384 41.504,51.609 44.459,50.495 44.459,58.635 		"/>
+		<path fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" d="M43.66,27.849
+			c4.454,1.28,8.012,4.678,9.514,9.033"/>
+	</g>
+	<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="64.647" y1="44.755" x2="75.523" y2="44.755"/>
+	<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="64.05" y1="32.729" x2="74.271" y2="29.008"/>
+	<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="54.556" y1="22.076" x2="61.548" y2="13.744"/>
+	<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="41.389" y1="17.794" x2="41.389" y2="6.917"/>
+	<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="6.656" y1="29.008" x2="16.878" y2="32.729"/>
+	<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="18.452" y1="12.818" x2="25.448" y2="21.15"/>
+	<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="4.477" y1="44.755" x2="15.353" y2="44.755"/>
+</g>
+</svg>

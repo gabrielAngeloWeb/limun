@@ -1,0 +1,23 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+<g>
+	<polyline fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" points="64.08,75.83 4.17,75.83 4.17,17.884
+		75.83,17.884 75.83,55.113 	"/>
+	<polyline fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" points="16.098,4.17 75.83,4.17 75.83,17.884
+		4.17,17.884 4.17,8.991 	"/>
+	<g>
+		<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="67.44" y1="9.243" x2="71.476" y2="12.812"/>
+		<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="71.476" y1="9.243" x2="67.44" y2="12.812"/>
+	</g>
+	<rect x="57.772" y="9.521" fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" width="5.17" height="3.291"/>
+	<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="54.05" y1="11.027" x2="48.931" y2="11.027"/>
+	<g>
+		<polyline fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" points="32.931,62.54 30.467,61.126
+			26.633,58.923 44.354,28.077 52.568,32.795 46.292,43.72 		"/>
+		<polyline fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" points="53.981,30.332 53.144,31.792
+			44.932,27.074 46.479,24.381 53.185,28.234 		"/>
+		<polygon fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" points="30.066,62.292 34.099,64.608
+			30.059,66.968 26.019,69.335 26.024,64.655 26.03,59.974 		"/>
+		<line fill="none" stroke="#2B2C2C" stroke-width="2.5" stroke-miterlimit="10" x1="26.023" y1="66.608" x2="27.461" y2="67.38"/>
+	</g>
+</g>
+</svg>

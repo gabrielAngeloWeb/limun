@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+<g>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="17.395,41.871 14.744,40.348 10.622,37.979 29.685,4.8
+		38.518,9.875 31.767,21.626 	"/>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="40.04,7.224 39.137,8.796 30.304,3.72 31.966,0.824
+		39.183,4.969 	"/>
+	<polygon fill="none" stroke="#FED700" stroke-miterlimit="10" points="14.313,41.601 18.651,44.094 14.306,46.635 9.96,49.176
+		9.967,44.143 9.974,39.109 	"/>
+	<line fill="none" stroke="#FED700" stroke-miterlimit="10" x1="9.965" y1="46.244" x2="11.512" y2="47.075"/>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<g>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="61.228,67.811 55.49,67.811 55.49,63.294 53.752,63.295
+		"/>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="52.538,63.025 52.538,64.511 52.538,67.811 42.785,67.811
+		42.785,71.507 65.244,71.507 65.244,69.941 	"/>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="80.147,49.027 80.147,63.295 55.49,63.295 	"/>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="52.849,63.295 27.881,63.295 27.881,28.494 71.089,28.494
+		"/>
+	<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="29.698,48.706 29.698,30.386 78.331,30.386 78.331,61.401
+		34.885,61.401 	"/>
+	<g>
+		<rect x="84.006" y="53.35" fill="none" stroke="#FED700" stroke-miterlimit="10" width="12.643" height="18.157"/>
+		<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="95.406,57.081 95.406,67.78 87.14,67.78 85.248,67.78
+			85.248,64.267 85.248,54.865 93.623,54.865 		"/>
+		<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="91.354,69.671 91.354,70.698 89.3,70.698 89.3,68.644
+			90.706,68.644 		"/>
+	</g>
+	<g>
+		<rect x="3.351" y="42.314" fill="none" stroke="#FED700" stroke-miterlimit="10" width="20.331" height="29.193"/>
+		<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="21.683,48.313 21.683,65.515 8.391,65.515 5.35,65.515
+			5.35,59.867 5.35,44.75 18.816,44.75 		"/>
+		<polyline fill="none" stroke="#FED700" stroke-miterlimit="10" points="15.167,68.555 15.167,70.206 11.865,70.206 11.865,66.904
+			14.125,66.904 		"/>
+	</g>
+</g>
+</svg>
