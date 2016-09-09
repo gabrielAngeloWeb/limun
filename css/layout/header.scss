@@ -1,0 +1,54 @@
+header.cabecalho-principal {
+     @extend %padding-padrao;
+     @include dimensao(100%, 6.5em); // 130px
+     @include flexbox(row, center, space-between);
+     background-color: $cinza-escuro;
+
+     h1 {
+          @extend %oculta-elemento;
+     }
+
+     img.logo-principal {
+          max-width: 20%;
+          min-width: 7.5em; // 150px
+     }
+}
+
+ul.menu-lista {
+     @include dimensao(45%, 80%);
+     @include flexbox(row, center, space-between);
+     -ms-flex-item-align: start;
+     align-self: flex-start;
+
+     li {
+          @include dimensao(23%, 100%);
+          @include flexbox(column, center, space-around);
+          text-align: center;
+          background-color: $cinza-medio;
+          position: relative;
+          top: -65%;
+
+          &:hover {
+               top: 0%;
+               border-bottom: 0.25em solid $amarelo-padrao; // 5px
+               cursor: pointer;
+               -webkit-transition: 0.5s ease-out;
+               transition: 0.5s ease-out;
+
+               a {
+                    color: $amarelo-padrao;
+               }
+          }
+     }
+
+     img {
+          @include dimensao(50%, 50%);
+     }
+
+     a {
+          color: white;
+          text-transform: uppercase;
+          font-size: 0.9em; // 18px
+          height: 1em; // 20px
+     }
+}

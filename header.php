@@ -1,8 +1,8 @@
 <header class="cabecalho-principal">
      <h1>Limun - Design e Desenvolvimento Web</h1>
-     <img src="icones/logo/icone-logo.svg" title="Limun - Design e Desenvolvimento Web" alt="[Limun - Design e Desenvolvimento Web]" />
+     <img class="logo-principal" src="icones/logo/icone-logo.svg" title="Limun - Design e Desenvolvimento Web" alt="[Limun - Design e Desenvolvimento Web]" />
 
-     <ul>
+     <ul class="menu-lista">
           <li>
                <img src="icones/menu/icone-menu-home.svg" title="Home" alt="[Home]" />
                <a>Home</a>

@@ -1,0 +1,31 @@
+@mixin dimensao($largura, $altura) {
+     width: $largura;
+     height: $altura;
+}
+
+@mixin flexbox($flex-direction, $align-items, $justify-content) {
+     display: -webkit-box;
+     display: -ms-flexbox;
+     display: flex;
+
+     @if $flex-direction == row {
+          -webkit-box-orient: horizontal;
+          -webkit-box-direction: normal;
+          -ms-flex-direction: $flex-direction;
+          flex-direction: $flex-direction;
+     } @else {
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          -ms-flex-direction: $flex-direction;
+          flex-direction: $flex-direction;
+     }
+
+     -webkit-box-align: $align-items;
+     -ms-flex-align: $align-items;
+     -ms-grid-row-align: $align-items;
+     align-items: $align-items;
+
+     -webkit-box-pack: $justify-content;
+     -ms-flex-pack: $justify-content;
+     justify-content: $justify-content;
+}

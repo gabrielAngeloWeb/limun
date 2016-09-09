@@ -1,0 +1,11 @@
+// Importando reset css
+@import 'base/reset.scss';
+
+// Importando variáveis e mixins
+@import 'auxiliares/variaveis.scss';
+@import 'auxiliares/extends.scss';
+@import 'auxiliares/mixins.scss';
+
+// Importando estilos de layout da página
+@import 'layout/header.scss';
+@import 'layout/destaques.scss';
